@@ -1,6 +1,6 @@
 # Guacmole
 ## Ingredients
 * avocado
-* lemon
-* salt
+* limes
 ## Instructions
+* mash up avocados
